@@ -1,0 +1,20 @@
+index.html
+package.json
+src/App.jsx
+src/main.jsx
+README.md{
+  "name": "sant-pol-accessible",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}index.htmlmain.jsxApp.jsx
